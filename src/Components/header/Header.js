@@ -14,8 +14,8 @@ const Header = () => {
         />
       </div>
       <div className="right-header">
-        <button className="btn-cart">test</button>
-        <button className="btn-admin">Admin</button>
+        <button className="btn-cart  header-btn ">test</button>
+        <button className="btn-admin header-btn">Admin</button>
       </div>
     </div>
   );

@@ -12,7 +12,7 @@
 
 .header {
   height: 6vw;
-  border-bottom: 1px solid black;
+  border-bottom: 0.3px solid grey;
   display: flex;
 }
 
@@ -34,6 +34,11 @@
 
 .btn-cart {
   padding: 5px 80px;
+  background-color: #ed6ca7;
+}
+
+.header-btn {
+  border: none;
 }
 
 .btn-admin {

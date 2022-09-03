@@ -1,0 +1,27 @@
+.sidebar {
+  width: 20%;
+  height: 78vh;
+  position: relative;
+}
+
+.side-delivery {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.address-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0px 0px 10px 0.5px #d3d3d3;
+  margin: 5px 20px;
+}
+
+.time-delivery {
+  color: blue;
+}
+
+.address-delivery {
+  margin-left: 5px;
+}
