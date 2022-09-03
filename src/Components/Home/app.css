@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.home-top-section {
+  display: flex;
+  background-color: #ce366f;
+  padding: 0vw 3.906vw;
+}
+
+.home-top-images {
+  width: 50%;
+}
+
+.home-logo {
+  padding: 30px 0px;
+}
+
+.intro-section {
+  font-size: 3.125vw;
+  font-weight: 800;
+  color: white;
+}
+
+.text-section {
+  color: white;
+}

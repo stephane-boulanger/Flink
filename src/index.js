@@ -1,8 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import App from "./App";
-import bag from "./Components/Home/images/flinkBag.png";
+import App from "./Components/Home/App";
 
 import Products from "./Components/Products/Products";
 import Home from "./Components/Home/Home";

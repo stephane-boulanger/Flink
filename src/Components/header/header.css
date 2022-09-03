@@ -1,0 +1,41 @@
+.logo-header {
+  width: 11.719vw;
+}
+
+.left-header {
+  width: 70%;
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 40px;
+}
+
+.header {
+  height: 6vw;
+  border-bottom: 1px solid black;
+  display: flex;
+}
+
+.searchbar-header {
+  width: 300px;
+  padding: 10px;
+  border: 1px solid grey;
+  border-radius: 8px;
+  background-color: #f8f8f8;
+  margin-right: 200px;
+}
+
+.right-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 30%;
+}
+
+.btn-cart {
+  padding: 5px 80px;
+}
+
+.btn-admin {
+  padding: 5px 80px;
+}
