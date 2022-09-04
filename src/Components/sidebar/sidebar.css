@@ -25,3 +25,16 @@
 .address-delivery {
   margin-left: 5px;
 }
+
+.side-bar-heading {
+  color: grey;
+  margin-left: 10px;
+}
+
+.menu-items {
+  margin: 20px;
+}
+
+.sidebar-faq {
+  margin: 20px;
+}
